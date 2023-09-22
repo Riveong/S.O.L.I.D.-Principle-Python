@@ -20,8 +20,8 @@ SOLID is a unified principle from some principles.
 SOLID isn't something that you must do, Something that if you ain't doing it you will get trouble. SOLID is one of many solutions and paradigmn that will help us to write better and cleaner code. To be fair SOLID is the father figure that we all wanted. Tolerance to updates, Easy To understand, Reuseable component.  
   
 ## The Solid Commandments
-[a relative link](SingleResponsibilityPrinciple.ipynb)
-[a relative link](OpenClose.ipynb)
-[a relative link](LSP.ipynb)
-[a relative link](ISP.ipynb)
-[a relative link](DIP.ipynb)
+- [S](SingleResponsibilityPrinciple.ipynb)  
+- [O](OpenClose.ipynb)  
+- [L](LSP.ipynb)  
+- [I](ISP.ipynb)  
+- [D](DIP.ipynb)
